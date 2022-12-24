@@ -2,4 +2,4 @@
 
 ### Project Screenshot
 
-![]('screenshot.png')
+![](screenshot.png)
