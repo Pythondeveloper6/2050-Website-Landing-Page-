@@ -1,1 +1,5 @@
-# 2050-Website-Landing-Page-
+# 2050 Website Landing Page
+
+### Project Screenshot
+
+![]('screenshot.png')
