@@ -1,0 +1,173 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link {
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar {
+    padding: 30px 0;
+}
+
+.div-navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.mycolor {
+    background-color: #4741AF;
+}
+
+.btn-move {
+    background-color: #6c63ff;
+    color: white;
+    font-weight: 600;
+    padding: 12px 58px;
+    font-size: 18px;
+    border-radius: 25px;
+
+}
+
+.btn-move:hover {
+    color: #6c63ff;
+    background-color: white;
+}
+
+.banner-text {
+    font-size: 72px;
+    font-weight: 800;
+    color: white;
+    line-height: 1.23;
+}
+
+.banner-subtitle {
+    font-size: 24px;
+    color: white;
+}
+
+.pe-7 {
+    padding-right: 20% !important;
+}
+
+.text-subtitle {
+    color: #6c63ff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.text-18 {
+    font-size: 18px;
+}
+
+.text-title {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.text-p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-link {
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+
+.about-img {
+    margin-left: -300px;
+    margin-top: -30px;
+}
+
+.link-border {
+    border-bottom: 3px solid #6c63ff;
+}
+
+.img-circle {
+    background-color: rgb(243, 249, 251);
+    border-radius: 50%;
+}
+
+.img-circle img {
+    margin-top: -125px;
+}
+
+.icon-span {
+    background-color: #6c63ff;
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+}
+
+.feature h3 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.feature p {
+    font-size: 18;
+    font-weight: 400;
+}
+
+.icon-span {
+    display: block;
+    width: 64px;
+    transition: transform 0.3s ease;
+}
+
+.feature:hover .icon-span {
+    transform: translateX(35px);
+
+}
+
+.choose-us-section {
+    background-color: rgb(243, 249, 251);
+}
+
+.product-card {
+    border-bottom: 4px solid #6c63ff;
+}
+
+.product-card {
+    transition: transform 0.4s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-15px);
+}
+
+.up-btn {
+    width: 48px;
+    height: 48px;
+    background-color: #6c63ff;
+    position: fixed !important;
+    right: 10px;
+    bottom: 60px;
+    transition: all 0.3s ease-out 0.3s;
+    border-radius: 5px;
+}
+
+.up-icon {
+    margin-top: 10px;
+}
+
+.post-card {
+    transition: 0.5s all ease-in-out;
+    overflow: hidden;
+}
+
+.post-card:hover img {
+    transform: scale(1.1);
+}
